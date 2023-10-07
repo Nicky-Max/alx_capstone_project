@@ -11,11 +11,14 @@
 - I have used HTML, CSS and JavaScript to build this application
 
 
-# Demo
+# Demo:
+
 -Below is a flowchart showing a pictorial representation of the project
+
 ![Alt text](<Screenshot (15).png>)
 
 - Below is an image showing sample of how the webpage will look like
+
 ![Alt text](<Screenshot (14).png>)
 
 
